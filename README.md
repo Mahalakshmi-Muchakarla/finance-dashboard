@@ -5,6 +5,7 @@ A clean, interactive personal finance dashboard built with React JS. Designed to
 ---
 
 ## Live Preview
+https://fintrax-financedashboard.netlify.app/
 
 > Run locally with the steps below — takes under 2 minutes.
 
