@@ -14,6 +14,8 @@ https://fintrax-financedashboard.netlify.app/
 ## Quick Start
 
 ```bash
+#clone the repo
+
 # 1. Install dependencies
 npm install
 
